@@ -10,7 +10,6 @@ buildscript {
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.10")
         classpath("androidx.navigation:navigation-safe-args-gradle-plugin:${Versions.navigationVersion}")
         classpath("com.google.dagger:hilt-android-gradle-plugin:${Versions.hiltVersion}")
-       // classpath("org.jlleitschuh.gradle:ktlint-gradle:${Versions.ktlintVersion}")
     }
 }
 
